@@ -23,7 +23,7 @@ My main goal is to finish RevoU Software Enginnering program, have a career swit
 ## My Technical Skills
 
 1. Code Editor & VSCode
-2. Aa
+2. Aabbcc
 3. 😊
 
 ## My Favorite Websites
